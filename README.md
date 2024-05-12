@@ -78,7 +78,7 @@ namespace EmployeeSalary
 }
 
 ## Output:
-![alt text](C#-03.png)
+![C#-03](https://github.com/Udhayasankaran04/Exp03-Constructor/assets/119393933/a48744c2-c5cd-4f66-a2ce-4b89cdca1a4c)
 
 ## Result:
 Thus, a C# program is written to calculate the salary of an employee using a constructor is implemented and the output is verified.
